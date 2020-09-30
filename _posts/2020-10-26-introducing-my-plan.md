@@ -3,7 +3,7 @@ layout: post
 title: Introducing Myself
 ---
 
-### How did I get here? 
+<div align="center">### How did I get here? </div>
 
 I currently work in customer service, of course, I hate it. I have been doing it for the last 10 years because it is easy and doesn't require really any special skills. It was fine when I was trying to figure out what I wanted to do for a career. And I tried and failed at many things. Settled at nursing, then realized I was horrible at science. Moved on to teaching, realized I don't care much for kids. So I decided to just coast until something just happened for me. Not expecting that thing would be becomming a parent. I came to the conclusion that I couldn't coast anymore. (I still did for a bit, but it was easier to blame that on being a new mom) 
 <br>
