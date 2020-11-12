@@ -17,5 +17,10 @@ title: Lets's try this again, shall we?
 
  also need to look up some sample portolio designs and start thinking about what the build would require 
 
+<<<<<<< HEAD
  testing command line again aftfer doing a git pull
  still testing 
+=======
+ testing git commands
+ testing still
+>>>>>>> b65f188951cb30582fc1b36b5a18c155a250e5e5
